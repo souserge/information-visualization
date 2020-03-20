@@ -17,6 +17,8 @@ vega-datasets = "*"
 jupyter-contrib-nbextensions = "*"
 nbconvert = "*"
 selenium = "*"
+nb-pdf-template = "*"
+altair-saver = "*"
 
 [requires]
 python_version = "3.7"
