@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyterlab = "*"
+altair = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+bokeh = "*"
+vega-datasets = "*"
+jupyter-contrib-nbextensions = "*"
+nbconvert = "*"
+selenium = "*"
+nb-pdf-template = "*"
+altair-saver = "*"
+
+[requires]
+python_version = "3.7"
