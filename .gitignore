@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 
-# My ignores
+### My ignores ###
 geckodriver.log
 *.pdf
+
+# Notebooks to play around
+/etc
