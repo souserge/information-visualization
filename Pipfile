@@ -19,6 +19,9 @@ nbconvert = "*"
 selenium = "*"
 nb-pdf-template = "*"
 altair-saver = "*"
+geopandas = "*"
+folium = "*"
+branca = "*"
 
 [requires]
 python_version = "3.7"
