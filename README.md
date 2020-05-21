@@ -11,6 +11,7 @@
 
 1. `pipenv install --dev`
 2. `pipenv run python -m nb_pdf_template.install`
+3. `pipenv run jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib`
 
 ## Run
 

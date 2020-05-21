@@ -25,6 +25,8 @@ branca = "*"
 pywikibot = "*"
 wikipedia = "*"
 bs4 = "*"
+ipympl = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
